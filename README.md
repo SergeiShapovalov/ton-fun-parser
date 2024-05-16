@@ -1,4 +1,4 @@
-# Ton fun parser
+# Ton fun parser.
 
 ## Up for development
 
